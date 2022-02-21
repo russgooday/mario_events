@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mario_events/static/css/main.f4ba5649.chunk.css",
+    "main.js": "/mario_events/static/js/main.b83c2e2f.chunk.js",
+    "main.js.map": "/mario_events/static/js/main.b83c2e2f.chunk.js.map",
+    "runtime-main.js": "/mario_events/static/js/runtime-main.6d31bcba.js",
+    "runtime-main.js.map": "/mario_events/static/js/runtime-main.6d31bcba.js.map",
+    "static/js/2.7d7489c7.chunk.js": "/mario_events/static/js/2.7d7489c7.chunk.js",
+    "static/js/2.7d7489c7.chunk.js.map": "/mario_events/static/js/2.7d7489c7.chunk.js.map",
+    "index.html": "/mario_events/index.html",
+    "static/css/main.f4ba5649.chunk.css.map": "/mario_events/static/css/main.f4ba5649.chunk.css.map",
+    "static/js/2.7d7489c7.chunk.js.LICENSE.txt": "/mario_events/static/js/2.7d7489c7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mario_events/static/media/Aldrich-Regular.3505f452.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d31bcba.js",
+    "static/js/2.7d7489c7.chunk.js",
+    "static/css/main.f4ba5649.chunk.css",
+    "static/js/main.b83c2e2f.chunk.js"
+  ]
+}
